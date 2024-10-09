@@ -5,9 +5,10 @@ Thought I'd make a quick and easy way for folk to ensure their Diablo 2 Resurrec
 This script works by copying your save game data to a cloud sync'd location (OneDrive/Dropbox/Google Drive) and creating a Junction in the original location so the game still thinks the files are in the same location.<br>
 
 # Usage
-1. Download script
-2. Run Script.
-3. Begin sighing in relief instead of crying in disbelief in the instance your files get corrupted.
+1. Use OneDrive/Dropbox/Google Drive
+2. Download script
+3. Run Script.
+4. Begin sighing in relief instead of crying in disbelief in the instance your files get corrupted.
 
 ![image](https://github.com/user-attachments/assets/edc1533a-4765-463a-a85d-f86f343aa12f)
 
