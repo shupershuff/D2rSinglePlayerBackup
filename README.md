@@ -2,7 +2,9 @@
 Yeah gidday.<br>
 <br>
 Thought I'd make a quick and easy way for folk to ensure their Diablo 2 Resurrected game saves are saved to the cloud instead of local only.<br>
-This script works by copying your save game data to a cloud sync'd location (OneDrive/Dropbox/Google Drive) and creating a Junction in the original location so the game still thinks the files are in the same location.<br>
+This is useful if you want to ensure you have a backup of your game files incase your computer spontaneously combusts and/or if you want to play the same game saves across multiple computers.
+
+This script works by copying your save game data to a cloud sync'd location (OneDrive/Dropbox/Google Drive) and creating a junction in the original location so the game still thinks the files are in the same location.<br>
 
 # Usage
 1. Use OneDrive/Dropbox/Google Drive.
